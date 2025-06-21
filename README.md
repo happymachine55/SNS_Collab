@@ -29,7 +29,8 @@
 - Python
 - BeautifulSoup(bs4)
 - Pandas
-- ChromeDriver
+- ChromeDriver 	
+
 
 ---
 
@@ -39,6 +40,8 @@
 | ------------------------------------ | -------------------------------------------- |
 | `yes24_bestseller_full.xlsx`          | 크롤링한 전체 베스트셀러 정보 XLSX 파일(스프레드시트)  |
 | `yes24_bestseller_one_page.xlsx`      | 한 페이지만 크롤링한 예시 XLSX 파일(스프레드시트)           |
+| `yes24_bestseller_full.csv`          | 크롤링한 전체 베스트셀러 정보 csv 파일(스프레드시트, 온라인 뷰어 파일, 다운로드시 글자 깨짐)  |
+| `yes24_bestseller_one_page.csv`      | 한 페이지만 크롤링한 예시 csv 파일(스프레드시트, 온라인 뷰어 파일, 다운로드시 글자 깨짐)           |
 | `yes24베스트셀러_전체목록4.ipynb`    | 크롤링 코드가 포함된 Jupyter Notebook 파일   |
 | `yes24베스트셀러_전체목록4.py`       | 크롤링 코드 Python 파일    (py로 변환)       |
 
