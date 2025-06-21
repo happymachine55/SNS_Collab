@@ -1,4 +1,14 @@
 # SNS_Collab
+---
+
+## 📁 스프레드 파일 위치
+
+| 파일명                              | 설명                                         |
+| ------------------------------------ | -------------------------------------------- |
+| `yes24_bestseller_full`          | https://docs.google.com/spreadsheets/d/1K0IhHBsc7o3NoP9yjvaG-vW1Y6bAxmjYrpoAZLqsjs8/edit?gid=0#gid=0 |
+| `yes24_bestseller_one_page`      | https://docs.google.com/spreadsheets/d/1a8Q1TuqoXFlXCjkHkV5HfcX5pax4DCEs0beAV9Lvwmo/edit?gid=0#gid=0 |
+
+---
 
 ## 📚 YES24 베스트셀러 크롤링 프로젝트
 
@@ -46,4 +56,3 @@
 | `yes24베스트셀러_전체목록4.py`       | 크롤링 코드 Python 파일    (py로 변환)       |
 
 ---
-
